@@ -1,0 +1,4 @@
+﻿  Week9FunctionArray.cpp
+C:\Users\270115050\OneDrive - UP Education\Desktop\CS103\Week9FunctionArray\Week9FunctionArray\Week9FunctionArray.cpp(108,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\270115050\OneDrive - UP Education\Desktop\CS103\Week9FunctionArray\Week9FunctionArray\Week9FunctionArray.cpp(106,89): warning C4101: 'matrixC': unreferenced local variable
+  Week9FunctionArray.vcxproj -> C:\Users\270115050\OneDrive - UP Education\Desktop\CS103\Week9FunctionArray\Debug\Week9FunctionArray.exe
